@@ -1,0 +1,13 @@
+h1 {
+    text-transform: capitalize;
+}
+
+.nav-buttons li{
+    display: inline-block;
+    list-style-type: none;
+}
+
+.top-nav{
+    display: flex;
+    justify-content: right;
+}
